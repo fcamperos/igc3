@@ -1,0 +1,66 @@
+a {float: right;
+	color: white;
+}
+h5 > a:hover{color:white;}
+img#publicidad1 {float:right;
+		margin-top:35px;
+		margin-left:30px;}
+img#publicidad2 {float:left;
+			margin-top:50px;
+			margin-left:20px;
+}
+
+a#camisa{float:left;
+	       margin-top: 300px;
+	       margin-left:-550px;
+		   color:white;
+	       font-size:30px;
+	       text-decoration:none;
+}
+a#pantalon{float:left;
+			margin-top:350px; 
+			margin-left:-550px;
+			color:white;
+			font-size:30px;
+			text-decoration:none;	
+}
+a#zapatos{float:left;
+			margin-top:400px;
+			margin-left:-550px;
+			color:white;
+			font-size:30px;
+			text-decoration:none;	
+}
+
+a#camisa:hover{color:blue;
+	font-weight: bold;
+	}
+a#pantalon:hover{color:blue;
+	font-weight: bold;
+}
+a#zapatos:hover{color:blue;
+font-weight: bold;
+}
+
+
+
+
+html, body {
+  height: 100%;
+ }
+
+
+ .wrapper {
+  min-height: 100%;
+  clear:both;
+ }
+
+
+ footer {
+  position: relative;
+  margin-top: -63px; 
+  height: 63px;
+  clear:both;
+  width:80%;
+  color:white;
+ }
